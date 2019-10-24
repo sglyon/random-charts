@@ -8948,9 +8948,6 @@
         }
     ],
     "layout": {
-        "title": {
-            "text": "Age, Height, and weight of 2018 Olympic athletes"
-        },
         "xaxis": {
             "type": "linear",
             "range": [
